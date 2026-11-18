@@ -1,0 +1,10 @@
+# upstream markdown mirror (fetched by build_corpus.py; CC BY-NC content)
+repo/
+# generated at build time
+hacktricks.db
+hacktricks.db-journal
+INDEX.md
+# python
+__pycache__/
+*.pyc
+.venv/
